@@ -1,0 +1,9 @@
+# Source materials not needed in the deployed site (already processed into assets/)
+PROCON_LLP_presentation.pdf
+Untitled design.mp4
+procon_logo-01.jpg
+assets/images2/
+
+# OS / editor
+.DS_Store
+Thumbs.db
